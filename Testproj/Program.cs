@@ -7,6 +7,7 @@ namespace Testproj
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            string péter = "alma";
         }
     }
 }
